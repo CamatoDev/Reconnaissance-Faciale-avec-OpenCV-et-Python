@@ -1,0 +1,24 @@
+name: formation-IA
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - hdf5
+  - ipython
+  - libopencv
+  - matplotlib
+  - numpy
+  - opencv
+  - pillow
+  - py-opencv
+  - python=3*
+  - pip
+  - scikit-learn
+  - scipy
+  - spyder
+  - tensorboard
+  - tensorflow
+  - wheel
+  
+pip:
+  - tensorflow-tensorboard
